@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "778147129922",
+    "project_id": "chat-app-b4154",
+    "storage_bucket": "chat-app-b4154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778147129922:android:5234da1ea99725e91f1bdb",
+        "android_client_info": {
+          "package_name": "com.example.leochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778147129922-d0ga81avm6bacmalpq7852ehpun0fb1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9zRMuuJKXdeKPkxmdQe4sYtR4LdeevRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778147129922-d0ga81avm6bacmalpq7852ehpun0fb1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778147129922-f8gt4f8cdrls8nibl15os20jijgqol5p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
